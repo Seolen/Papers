@@ -13,3 +13,9 @@ the significant papers
 ## Basic Papers
 + [Generative Adversarial Nets](https://arxiv.org/pdf/1406.2661v1.pdf)
 
+
+
+## Weak Supervised Segmentation
+### Bounding Box
++ [Pseudo Mask Augmented Object Detection](https://arxiv.org/pdf/1803.05858.pdf)
+
