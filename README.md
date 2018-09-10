@@ -18,4 +18,5 @@ the significant papers
 ## Weak Supervised Segmentation
 ### Bounding Box
 + [Pseudo Mask Augmented Object Detection](https://arxiv.org/pdf/1803.05858.pdf)
++ [BoxSup: Exploiting Bounding Boxes to Supervise Convolutional Networks for Semantic Segmentation](https://arxiv.org/pdf/1503.01640.pdf)  (2015 ICCV)
 
