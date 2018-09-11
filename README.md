@@ -27,7 +27,7 @@ the significant papers
 
 + [A brief introduction to weakly supervised learning](https://cs.nju.edu.cn/zhouzh/zhouzh.files/publication/nsr18.pdf)
  
- *incomplete supervision,  inexact supervision, inaccurate supervision*
+  *incomplete supervision,  inexact supervision, inaccurate supervision*
 
 + [Semi-Supervised Learning by Disagreement](http://cs.nju.edu.cn/lim/publications/kais10.pdf)
 
