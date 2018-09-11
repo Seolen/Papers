@@ -33,27 +33,25 @@ the significant papers
 
 ### Weak Supervised Segmentation
 
-#### Bounding Box
-
 + [Pseudo Mask Augmented Object Detection](https://arxiv.org/pdf/1803.05858.pdf)
 
- *only superviesed by bounding box annotation, recursively estimate the pseudo gt object masks, enhance the detection work with top-down segmentation feedbacks*
+  *only superviesed by bounding box annotation, recursively estimate the pseudo gt object masks, enhance the detection work with top-down segmentation feedbacks*
 
 + [BoxSup: Exploiting Bounding Boxes to Supervise Convolutional Networks for Semantic Segmentation](https://arxiv.org/pdf/1503.01640.pdf)  (2015 ICCV)
 
- *significant work, iterate between automatically generating region proposals and training convolutional networks*
+  *significant work, iterate between automatically generating region proposals and training convolutional networks*
 
 + [Simple Does It: Weakly Supervised Instance and Semantic Segmentation](http://openaccess.thecvf.com/content_cvpr_2017/papers/Khoreva_Simple_Does_It_CVPR_2017_paper.pdf)  (CVPR 2017)
 
- *carefully designing the input labels from given bounding boxes*
+  *carefully designing the input labels from given bounding boxes*
 
 + [Learning to Segment Every Thing](https://arxiv.org/pdf/1711.10370.pdf)
 
- *On COCO Dataset, (past) 80 classes -> 3000 classes, Mask RCNN + transfer learning approach,  partially supervised training paradigm*
+  *On COCO Dataset, (past) 80 classes -> 3000 classes, Mask RCNN + transfer learning approach,  partially supervised training paradigm*
 
 + [Revisiting Dilated Convolution: A Simple Approach for Weakly- and SemiSupervised Semantic Segmentation](http://openaccess.thecvf.com/content_cvpr_2018/CameraReady/0812.pdf)
 
- *dilated convolution for extracting context info, image-level supervision -> high-quality dense object localization, classification network + multi-dilated convolutional blocks*
+  *dilated convolution for extracting context info, image-level supervision -> high-quality dense object localization, classification network + multi-dilated convolutional blocks*
 
 
 
@@ -63,4 +61,4 @@ the significant papers
 + [The Expectation Maximization Algorithm](https://www.cs.utah.edu/~piyush/teaching/EM_algorithm.pdf)
 + [Multiscale Combinatorial Grouping](https://www2.eecs.berkeley.edu/Research/Projects/CS/vision/grouping/mcg/resources/MCG_CVPR2014.pdf) 
 
- *MCG for region proposals*
+  *MCG for region proposals*
