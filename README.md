@@ -26,3 +26,4 @@ the significant papers
 # Auxiliary Material
 
 + [The Expectation Maximization Algorithm](https://www.cs.utah.edu/~piyush/teaching/EM_algorithm.pdf)
++ [Multiscale Combinatorial Grouping](https://www2.eecs.berkeley.edu/Research/Projects/CS/vision/grouping/mcg/resources/MCG_CVPR2014.pdf) (MCG for region proposals)
