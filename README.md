@@ -12,14 +12,15 @@ the significant papers
 
 + [a Fixed-Point Model for Strucured Labeling](http://proceedings.mlr.press/v28/li13b.pdf )
 
-* Fixed-Point Model *
+  * Fixed-Point Model *
 
 + A Fixed-Point Model for Pancreas Segmentation in Abdominal CT Scans
 
 + [Recurrent Saliency Transformation Network: Incorporating Multi-Stage Visual Cues for Small Organ Segmentation](http://www.cs.jhu.edu/~alanlab/Pubs18/yu2018recurrent.pdf)
 
-* Joint Optimization, Saliency Transformation *
+  * Joint Optimization, Saliency Transformation *
 
+---
 ## Autumn
 
 ### Basic Weakly Supervised Learning
